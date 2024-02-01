@@ -1,0 +1,14 @@
+C:\Users\tarde.cetafaju\Downloads\LF\JPCAR\JPCAR\obj\Debug\net6.0\JPCAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarde.cetafaju\Downloads\LF\JPCAR\JPCAR\obj\Debug\net6.0\JPCAR.AssemblyInfoInputs.cache
+C:\Users\tarde.cetafaju\Downloads\LF\JPCAR\JPCAR\obj\Debug\net6.0\JPCAR.AssemblyInfo.cs
+C:\Users\tarde.cetafaju\Downloads\LF\JPCAR\JPCAR\obj\Debug\net6.0\JPCAR.csproj.CoreCompileInputs.cache
+C:\Users\tarde.cetafaju\Downloads\LF\JPCAR\JPCAR\bin\Debug\net6.0\JPCAR.exe
+C:\Users\tarde.cetafaju\Downloads\LF\JPCAR\JPCAR\bin\Debug\net6.0\JPCAR.deps.json
+C:\Users\tarde.cetafaju\Downloads\LF\JPCAR\JPCAR\bin\Debug\net6.0\JPCAR.runtimeconfig.json
+C:\Users\tarde.cetafaju\Downloads\LF\JPCAR\JPCAR\bin\Debug\net6.0\JPCAR.dll
+C:\Users\tarde.cetafaju\Downloads\LF\JPCAR\JPCAR\bin\Debug\net6.0\JPCAR.pdb
+C:\Users\tarde.cetafaju\Downloads\LF\JPCAR\JPCAR\obj\Debug\net6.0\JPCAR.dll
+C:\Users\tarde.cetafaju\Downloads\LF\JPCAR\JPCAR\obj\Debug\net6.0\refint\JPCAR.dll
+C:\Users\tarde.cetafaju\Downloads\LF\JPCAR\JPCAR\obj\Debug\net6.0\JPCAR.pdb
+C:\Users\tarde.cetafaju\Downloads\LF\JPCAR\JPCAR\obj\Debug\net6.0\JPCAR.genruntimeconfig.cache
+C:\Users\tarde.cetafaju\Downloads\LF\JPCAR\JPCAR\obj\Debug\net6.0\ref\JPCAR.dll
